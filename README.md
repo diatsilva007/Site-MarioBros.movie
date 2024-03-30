@@ -1,5 +1,5 @@
 <h1 align="center">
-  Site do filme Mario Bros 🍄
+  Landing Page Site do filme Mario Bros 🍄
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Este projeto é um site baseado no filme **The Super Mario Bros**.
+Este projeto é uma landing page do site baseado no filme **The Super Mario Bros**.
 
 ## 🚀 Tecnologias
 
@@ -24,9 +24,3 @@ Este projeto é um site baseado no filme **The Super Mario Bros**.
 - [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/)
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
-
-
-## 📝 Tema de casa
-
-- [ ] Criar responsividade
-- [ ] Adicionar efeito de hover nos botões
