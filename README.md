@@ -1,5 +1,5 @@
 <h1 align="center">
-  Landing Page Site do filme Mario Bros 🍄
+  Site do filme Mario Bros 🍄
 </h1>
 
 <p align="center">
