@@ -9,7 +9,7 @@ header {
     padding-top: 24px;
 }
 
-/* Logo do header do Mario Bros */
+/* Logo do chapéu do Mario Bros */
 header img {
     width: 70px;
     height: auto;
@@ -68,7 +68,6 @@ header img {
     width: 20px;
     height: 20px;
     opacity: 0.6;
-
     transition: all 0.4s;
 }
 
