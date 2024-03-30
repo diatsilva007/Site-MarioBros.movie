@@ -9,9 +9,14 @@ main {
     max-width: 1440px;
 }
 
+main img {
+    padding: 18px;
+}
+
 .main__info {
     width: 100%;
     max-width: 570px;
+    padding: 18px;
 }
 
 .main__info p {
