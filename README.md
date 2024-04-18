@@ -2,7 +2,7 @@
   Site do filme Mario Bros 🍄
 </h1>
 
- <img src="https://github.com/diatsilva007/Site-MarioBros.movie/blob/main/.github/MarioBros.gif" alt="Mario Bros Movie" width="100%" height="400px">
+ <img src="https://github.com/diatsilva007/Site-MarioBros.movie/blob/main/.github/MarioBros.gif" alt="Mario Bros Movie" width="100%" height="350px">
 
 ## 💻 Projeto
 
