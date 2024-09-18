@@ -6,7 +6,7 @@
 
 ## 💻 Projeto
 
-Este projeto é uma landing page do site baseado no filme **The Super Mario Bros**.
+Este projeto é uma landing page do site do filme **The Super Mario Bros**.
 
 ## 🚀 Tecnologias
 
