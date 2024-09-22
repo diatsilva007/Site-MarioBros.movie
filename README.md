@@ -22,3 +22,5 @@ Este projeto é uma landing page do site do filme **The Super Mario Bros**.
 - [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/)
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
+
+## 🖥️ Deploy: https://spotify-webpage-clone-azure.vercel.app/
