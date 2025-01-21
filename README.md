@@ -23,4 +23,4 @@ Este projeto é uma landing page do site do filme **The Super Mario Bros**.
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 
-## 🖥️ Deploy: https://spotify-webpage-clone-azure.vercel.app/
+## 🖥️ Deploy: [https://spotify-webpage-clone-azure.vercel.app/](https://site-mario-bros-movie.vercel.app/)
